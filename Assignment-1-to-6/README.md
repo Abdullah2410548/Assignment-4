@@ -4,13 +4,13 @@
 
 [Project 3: Guess the Number Game Python Project (computer)](https://colab.research.google.com/drive/1qpBLPzQNpnlbGXbpfFsjGZczLFdoJFTs?authuser=1#scrollTo=oJXtnP47S2au)
 
-[Project 4: Rock, paper, scissors Python Project]()
+[Project 4: Rock, paper, scissors Python Project](https://colab.research.google.com/drive/1KXYInkicAFwrUuUvC4DDy7YrCB_dTOH2?authuser=1)
 
 [Project 5: Hangman Python Project]()
 
-[Project 6: Countdown Timer Python Project]()
+[Project 6: Countdown Timer Python Project](https://colab.research.google.com/drive/1_rCU03glPOoWl5fZLdJq8G-Dn7rwkigj?authuser=1)
 
-[Project 7: Password Generator Python Project]()
+[Project 7: Password Generator Python Project](https://colab.research.google.com/drive/1wimsa_3jp8YHfwrm3A710pfDfulZIlsb?authuser=1)
 
 [Project 8: Create a Python Streamlit BMI Calculator Web App in Just 6 Minutes]()
 
